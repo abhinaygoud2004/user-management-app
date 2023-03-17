@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "abhi",
+      "email": "abhinay@gmail.com",
+      "DOB": "2023-02-14",
+      "Image": "ddd",
+      "id": 1
+    },
+    {
+      "name": "abhi",
+      "email": "abhi@gmail.com",
+      "DOB": "2023-02-15",
+      "Image": "ww",
+      "id": 2
+    }
+  ],
+  "removedUsers": []
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Roboto:ital,wght@1,300&family=Rubik+Puddles&display=swap');
+.users{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+.card{
+    background-image: url("https://i.pinimg.com/originals/da/42/64/da4264a33bbcfcd56d3cb80e26430518.png");
+}
+.name{
+    color:#047c82;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.profile-image{
+    border-radius: 50%;
+    max-width: 300px;
+    width:100%;
+}
